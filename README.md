@@ -26,4 +26,4 @@ Ir al curso de [diseño email](https://platzi.com/clases/diseno-email/)
 
 # Demo
 
-Ver la plantilla en [https://vidaldev.github.io/template_escalable/](https://vidaldev.github.io/template_escalable/)
+Ver la plantilla en [https://vidaldev.github.io/template_responsive/](https://vidaldev.github.io/template_responsive/)
